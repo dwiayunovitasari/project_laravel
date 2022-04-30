@@ -67,7 +67,7 @@ h4 {
 				</div>
 				<div class='box-body border-radius-none'>	
 				<p>JavaScript  Tutorial
-JS adalah bahasa pemrograman yang sering di gunakan di aplikasi berbasi webde ++, Anda dapat mengeditjavascrpit dan jalankan di browser anda.
+JS adalah bahasa pemrograman yang sering di gunakan di aplikasi berbasi web ++, Anda dapat mengedit javascrpit dan jalankan di browser anda.
 Contoh   ::</p>
 <h4>Belajar Mudah denganjavascrpit "Coba Sendiri"</h4>
 
