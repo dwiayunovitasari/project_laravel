@@ -108,7 +108,7 @@ document.getElementById("demo").innerHTML ="The value of z is: " + z;<br>
 
 	</div>
 	<div >
-		<a class="w3-btn w3-margin-bottom" href="{{ route('jsintro_next') }}" target="_blank">Coba Sendiri &raquo;</a>
+		<a class="w3-btn w3-margin-bottom" href="{{ route('jsdwi_next') }}" target="_blank">Coba Sendiri &raquo;</a>
 	</div>
 
 	<strong>Click saja &quot;Coba Sendiri&quot; Tombol ini Untuk melihat coding sebenarnya.</strong>
