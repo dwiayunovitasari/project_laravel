@@ -67,11 +67,11 @@ h4 {
 				</div>
 				<div class='box-body border-radius-none'>	
 				<p>JavaScript  Tutorial
-JS adalah bahasa pemrograman yang sering di gunakan di aplikasi berbasi web ++, Anda dapat mengedit javascrpit dan jalankan di browser anda.
+JS adalah bahasa pemrograman yang sering di gunakan di aplikasi berbasis web ++, Anda dapat mengedit javascrpit dan jalankan di browser anda.
 Contoh   ::</p>
-<h4>Belajar Mudah denganjavascrpit "Coba Sendiri"</h4>
+<h4>Belajar Mudah dengan JavaScrpit "Coba Sendiri"</h4>
 
-<p>4 Ways to Declare a JavaScript Variable:</p>
+<p>4 Cara Mendeklarasikan Variabel JavaScript :</p>
 
  <li> penggunaan  variabel var   </li>
  <li> penggunaan  variabel let</li>
@@ -79,7 +79,7 @@ Contoh   ::</p>
  <li> penggunaan  variabel nothing</li>
 
 
-<p>Dengan editor "Coba Sendiri" kami, Anda dapat mengedit kode javascript dan melihat hasilnya: </p>
+<p>Dengan editor "Coba Sendiri" kami, Anda dapat mengedit kode JavaScript dan melihat hasilnya : </p>
 
 
 <div class="w3-example">
@@ -111,7 +111,7 @@ document.getElementById("demo").innerHTML ="The value of z is: " + z;<br>
 		<a class="w3-btn w3-margin-bottom" href="{{ route('jsintro_next') }}" target="_blank">Coba Sendiri &raquo;</a>
 	</div>
 
-	<strong>Click aja &quot;Coba Sendiri&quot; Tombol ini Untuk melihat koding sebenarnya.</strong>
+	<strong>Click aja &quot;Coba Sendiri&quot; Tombol ini Untuk melihat coding sebenarnya.</strong>
 
 	</div>
 	<hr>
