@@ -99,11 +99,12 @@ title="Close Menu" style="font-weight:bold;padding-top:10px;padding-bottom:11px;
 <p>contoh penggunaan variabel x, y, and z .</p>
 <p id="demo"></p>
 <script>
-let x = 8;
-let y = 6;
-let z = x + y;
-document.getElementById("demo").innerHTML ="The value of z is: " + z;
+function myFunction(p1, p2) {
+  return p1 * p2;
+}
+document.getElementById("demo").innerHTML = myFunction(4, 3);
 </script>
+
 
 </body>
 </html>
