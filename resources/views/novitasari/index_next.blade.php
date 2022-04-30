@@ -89,17 +89,17 @@ title="Close Menu" style="font-weight:bold;padding-top:10px;padding-bottom:11px;
 		<!DOCTYPE html>
 		<html>
 		<head>
-		<title>judul halaman JS namakamu</title>
+		<title>JS Array Methods [DWI AYU NOVITASARI]</title>
 
 </head>
 <body>
 <img src="http://127.0.0.1:8000/asset/img/logo.png" height='37'>
 
 <h2>JavaScript Variables</h2>
-<p>contoh pengunana variabel x, y, and z .</p>
+<p>contoh penggunaan variabel x, y, and z .</p>
 <p id="demo"></p>
 <script>
-let x = 5;
+let x = 8;
 let y = 6;
 let z = x + y;
 document.getElementById("demo").innerHTML ="The value of z is: " + z;
