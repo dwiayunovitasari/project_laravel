@@ -33,7 +33,7 @@ Route::prefix('admin')->group(function () {
     Route::get('/jsIntroduction_next', 'JsintroController@index_next')->name('jsintro_next');
 
     Route::get('/jsdwi', 'DwiController@index')->name('jsdwi');
-    Route::get('/jsIntroduction_next', 'JsintroController@index_next')->name('jsintro_next');
+    Route::get('/jsdwi_next', 'DwiController@index_next')->name('jsdwi_next');
   
 
 });
