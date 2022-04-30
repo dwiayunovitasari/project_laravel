@@ -63,13 +63,13 @@ h4 {
 			<div class='box box-primary'>
 				<div class='box-header'>
 					<i class='fa fa-th'></i>
-					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya</h3>
+					<h2 class='box-title'>Universitas Bhayangkara Jakarta Raya</h2>
 				</div>
 				<div class='box-body border-radius-none'>	
 				<p>JavaScript  Tutorial
 JS adalah bahasa pemrograman yang sering di gunakan di aplikasi berbasis web ++, Anda dapat mengedit javascrpit dan jalankan di browser anda.
 Contoh   ::</p>
-<h4>Belajar Mudah dengan JavaScrpit "Coba Sendiri"</h4>
+<h3>Belajar Mudah dengan JavaScript "Coba Sendiri"</h3>
 
 <p>4 Cara Mendeklarasikan Variabel JavaScript :</p>
 
@@ -97,7 +97,7 @@ Contoh   ::</p>
 &lt;p id="demo"&gt;&lt;/p&gt;<br>
 
 &lt;script&gt;<br>
-let x = 5;<br>
+let x = 8;<br>
 let y = 6;<br>
 let z = x + y;<br>
 document.getElementById("demo").innerHTML ="The value of z is: " + z;<br>
@@ -111,7 +111,7 @@ document.getElementById("demo").innerHTML ="The value of z is: " + z;<br>
 		<a class="w3-btn w3-margin-bottom" href="{{ route('jsintro_next') }}" target="_blank">Coba Sendiri &raquo;</a>
 	</div>
 
-	<strong>Click aja &quot;Coba Sendiri&quot; Tombol ini Untuk melihat coding sebenarnya.</strong>
+	<strong>Click saja &quot;Coba Sendiri&quot; Tombol ini Untuk melihat coding sebenarnya.</strong>
 
 	</div>
 	<hr>
